@@ -30,7 +30,7 @@ This dashboard shows how learners interact with videos, highlighting metrics and
 ### 2. **Conversion Trends Over Time**
 Tracks how learner engagement and video conversions fluctuate over time, offering insights into seasonal and weekly trends.
 
-<img src="images/Conversion_Trends.png" alt="Conversion Trends Over Time" width=600">
+<img src="images/Conversion_Trends.png" alt="Video Engagement Metrics" width="600">
 
 ### 3. **Attribution Analysis**
 Analyzes the role of the first and last and assisted videos in driving user conversions and engagement.
