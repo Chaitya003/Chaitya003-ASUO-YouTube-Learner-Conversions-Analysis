@@ -22,14 +22,20 @@ The goal of this project was to analyze YouTube video performance and user behav
 
 ## Dashboard Screenshots
 
-### 1. Video Engagement Metrics
-![Video Engagement Metrics](images/video_engagement.png)
+### 1. **Video Engagement Metrics**
+This dashboard shows how learners interact with videos, highlighting metrics and completion rates at various stages (e.g., started, 25%, 50%, 75%, 100%).
 
-### 2. Conversion Trends Over Time
-![Conversion Trends](images/conversion_trends.png)
+<img src="images/Video_Engagement.png" alt="Video Engagement Metrics" width="600">
 
-### 3. Attribution Analysis
-![Attribution Analysis](images/attribution_analysis.png)
+### 2. **Conversion Trends Over Time**
+Tracks how learner engagement and video conversions fluctuate over time, offering insights into seasonal and weekly trends.
+
+<img src="images/Conversion_Trends.png" alt="Conversion Trends Over Time" width=600">
+
+### 3. **Attribution Analysis**
+Analyzes the role of the first and last and assisted videos in driving user conversions and engagement.
+
+<img src="images/Attribution_Analysis.png" alt="Attribution Analysis" width="600">
 
 
 ## BigQuery SQL Queries
